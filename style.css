@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-color:red;
+    color:white;
+}
+.header_div{
+    background-color: white;
+    width: 100%;
+    color:red;
+    top:0;
+}
+.footer_div{
+    background-color: white;
+    color: red;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.header_div h1{
+    font-family: 'Square Peg', cursive;
+}
